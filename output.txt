@@ -1,0 +1,126 @@
+SVC:
+####
+SVC #0 param: {'clf__C': 10, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.712, std: 0.033.
+
+SVC #1 param: {'clf__C': 10, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.633, std: 0.022.
+
+SVC #2 param: {'clf__C': 10, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.703, std: 0.031.
+
+SVC #3 param: {'clf__C': 10, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.633, std: 0.021.
+
+SVC #4 param: {'clf__C': 10, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #5 param: {'clf__C': 10, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #6 param: {'clf__C': 10, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #7 param: {'clf__C': 10, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #8 param: {'clf__C': 10, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #9 param: {'clf__C': 10, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #10 param: {'clf__C': 10, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #11 param: {'clf__C': 10, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #12 param: {'clf__C': 10, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #13 param: {'clf__C': 10, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #14 param: {'clf__C': 10, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #15 param: {'clf__C': 10, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #16 param: {'clf__C': 100, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.712, std: 0.033.
+
+SVC #17 param: {'clf__C': 100, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.633, std: 0.022.
+
+SVC #18 param: {'clf__C': 100, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.703, std: 0.031.
+
+SVC #19 param: {'clf__C': 100, 'clf__kernel': 'linear', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.633, std: 0.021.
+
+SVC #20 param: {'clf__C': 100, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #21 param: {'clf__C': 100, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #22 param: {'clf__C': 100, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #23 param: {'clf__C': 100, 'clf__kernel': 'poly', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #24 param: {'clf__C': 100, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #25 param: {'clf__C': 100, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #26 param: {'clf__C': 100, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #27 param: {'clf__C': 100, 'clf__kernel': 'rbf', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #28 param: {'clf__C': 100, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #29 param: {'clf__C': 100, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+SVC #30 param: {'clf__C': 100, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.047, std: 0.001.
+
+SVC #31 param: {'clf__C': 100, 'clf__kernel': 'sigmoid', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.047, std: 0.001.
+
+
+
+test set: 0.53
+
+
+
+
+linear-SVC:
+###########
+LinearSVC #1 param: {'clf__C': 10, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.750, std: 0.028.
+
+LinearSVC #2 param: {'clf__C': 10, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.701, std: 0.024.
+
+LinearSVC #3 param: {'clf__C': 10, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.030.
+
+LinearSVC #4 param: {'clf__C': 10, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+LinearSVC #5 param: {'clf__C': 10, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.751, std: 0.030.
+
+LinearSVC #6 param: {'clf__C': 10, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.704, std: 0.025.
+
+LinearSVC #7 param: {'clf__C': 10, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.028.
+
+LinearSVC #8 param: {'clf__C': 10, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+LinearSVC #9 param: {'clf__C': 100, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.750, std: 0.028.
+
+LinearSVC #10 param: {'clf__C': 100, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.701, std: 0.024.
+
+LinearSVC #11 param: {'clf__C': 100, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.030.
+
+LinearSVC #12 param: {'clf__C': 100, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+LinearSVC #13 param: {'clf__C': 100, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.751, std: 0.028.
+
+LinearSVC #14 param: {'clf__C': 100, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.702, std: 0.025.
+
+LinearSVC #15 param: {'clf__C': 100, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.029.
+
+LinearSVC #16 param: {'clf__C': 100, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+LinearSVC #17 param: {'clf__C': 1000, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.750, std: 0.028.
+
+LinearSVC #18 param: {'clf__C': 1000, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.701, std: 0.024.
+
+LinearSVC #19 param: {'clf__C': 1000, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.030.
+
+LinearSVC #20 param: {'clf__C': 1000, 'clf__loss': 'hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+LinearSVC #21 param: {'clf__C': 1000, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': True}, mean: 0.750, std: 0.028.
+
+LinearSVC #22 param: {'clf__C': 1000, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 1), 'vect__use_idf': False}, mean: 0.701, std: 0.024.
+
+LinearSVC #23 param: {'clf__C': 1000, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': True}, mean: 0.749, std: 0.030.
+
+LinearSVC #24 param: {'clf__C': 1000, 'clf__loss': 'squared_hinge', 'vect__ngram_range': (1, 2), 'vect__use_idf': False}, mean: 0.711, std: 0.030.
+
+
+
+test set: 0.55
