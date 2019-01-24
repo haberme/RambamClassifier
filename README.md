@@ -1,19 +1,16 @@
 #INTRODUCTION
-#############
 
 The project aim to classify questions in Shut Arambam according to the Halacot that in them.
 The goal is when the program take a passage from Shut Arambam it will output the Halaka in it.
 
 
 # Dependencies
-##############
 argparse v.1.1
 sklearn v.0.20.1
 numpy v.1.15.4
 
 
 # Making The Sets
-#################
 To make the set I used the Michna Tora from Mechon Mamre (https://www.mechon-mamre.org/i/0.htm) as Michna Tora divided by halacot while containing the Rambam distinctive way of writing.
 
 The program `make_sets.py` build a train and dev sets from the unprocced data sit in `./data/raw data` in a form of folders.
@@ -57,7 +54,6 @@ The program can take the following parameters:
 
 
 # SVM classification
-####################
 The program run SVM and LinearSVM on the data. to run use `python svm_classification.py`.
 
 The program has been run on two data splits.
