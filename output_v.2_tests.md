@@ -400,9 +400,9 @@ test set classification report:
 
 ## Summerize tests:
 
-| name | param | score |
-| ---- | ---- | ---- |
-| No overlap SVC | ? | 97.29 |
-| No overlap LinearSVC | ? | 98.53 |
-| With overlap SVC | ? | 99.16 |
-| With overlap LinearSVC | ? | 99.56 |
+| name | score |
+| --- | --- |
+| No overlap SVC | 97.38 |
+| No overlap LinearSVC | 98.05 |
+| With overlap SVC | 99.29 |
+| With overlap LinearSVC | 99.73 |
